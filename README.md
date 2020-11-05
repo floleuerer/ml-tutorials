@@ -1,5 +1,12 @@
 # Deep Learning mit Python, PyTorch und fast.ai
 
+## Quellen
+
+[fast.ai](https://docs.fast.ai) 
+
+[fastbook](https://github.com/fastai/fastbook)
+
+## Notebooks
 
 | Notebook  |  Link (rechtsklick -> öffnen in neuem Tab)  |
 |---|----|
@@ -9,5 +16,5 @@
 | 04 Text Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/ml-tutorials/blob/main/04_fastai_text.ipynb) |
 | 05 MNIST - Eigenes Modell | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/ml-tutorials/blob/main/05_mnist.ipynb) |
 | 06 Tabellarische Daten | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/ml-tutorials/blob/main/06_tabular.ipynb) |
-| 07 Image Classification  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/ml-tutorials/blob/main/07_fastai_pets-CAM.ipynb)  |
+| 07 Image Interpretation CAM  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/ml-tutorials/blob/main/07_fastai_pets-CAM.ipynb)  |
 | 08 Image Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/fastai-tutorials/blob/main/fastai_tensorboard_projector.ipynb) |
