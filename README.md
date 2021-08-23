@@ -6,6 +6,8 @@
 
 [fastbook](https://github.com/fastai/fastbook)
 
+[fast.ai DeepLearning for Coders (youtube)](https://www.youtube.com/watch?v=_QUEXsHfsA0&list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
+
 ## Notebooks
 
 | Notebook  |  Link (rechtsklick -> öffnen in neuem Tab)  |
